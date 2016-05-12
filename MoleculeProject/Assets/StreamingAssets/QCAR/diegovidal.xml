@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="abstract-art-wallpaper-black-and-white-wallpaper-desktop" size="1440.000000 2560.000000" />
+    <ImageTarget name="77987-11710" size="1080.000000 1920.000000" />
+    <ImageTarget name="myBoard2" size="1080.000000 1920.000000" />
+    <ImageTarget name="IMG_IRONMAIDEN" size="2448.000000 3264.000000" />
+  </Tracking>
+</QCARConfig>

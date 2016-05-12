@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ButtonTap.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonTap.cs" Line="37" Column="6" />
+      <File FileName="../../forrohero/Assets/Scripts/PauseButton.cs" Line="35" Column="3" />
+      <File FileName="../../forrohero/Assets/Scripts/SpawnNote.cs" Line="294" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

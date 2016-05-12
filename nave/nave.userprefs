@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ManageGameScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RocketScript.cs" Line="21" Column="34" />
+      <File FileName="Assets/Scripts/ArmaScript.cs" Line="6" Column="30" />
+      <File FileName="Assets/Scripts/ManageGameScript.cs" Line="5" Column="46" />
+      <File FileName="Assets/Scripts/InimigoScript.cs" Line="21" Column="21" />
+      <File FileName="Assets/Scripts/BalaScript.cs" Line="21" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/joelbarbosa/Documents/Unity Workspace/nave/Assets/Scripts/RocketScript.cs" line="11" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
